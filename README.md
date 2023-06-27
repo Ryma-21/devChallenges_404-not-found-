@@ -9,9 +9,8 @@
 <div align="center">
   <h3>
   
-    <span> | </span>
-    <a href="404-not-found-bsu.pages.dev
-">
+
+    <a href="404-not-found-bsu.pages.dev">
       Solution
     </a>
     <span> | </span>
